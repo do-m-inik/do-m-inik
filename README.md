@@ -18,6 +18,6 @@ Also experienced in:
 - Ubuntu Desktop/Server
 
 Links:
-- Website (german): [link] (https://do-m-inik.at/)
-- Twitter (german: [link] (https://twitter.com/do-m-inik/)
-- University website: [link] (https://uibk.ac.at)
+- Website (german): (https://do-m-inik.at/)
+- Twitter (german: (https://twitter.com/do-m-inik/)
+- University website: (https://uibk.ac.at)
