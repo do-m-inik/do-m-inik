@@ -1,16 +1,23 @@
-### Hi there 👋
+# Dominik Schäfer
 
-<!--
-**do-m-inik/do-m-inik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal info:
+- 20 years old
+- Living in Innsbruck (Austria) and Erftstadt (Germany)
+- Computer Science student at the University of Innsbruck
+- Likes climbing, hiking, cycling and running
+- Delivers packages at Saturdays at Österreichische Post AG
 
-Here are some ideas to get you started:
+Programming Languages did at the University:
+- Java
+- C
+- Haskell
+- R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also experienced in:
+- Debian Desktop/Server
+- Ubuntu Desktop/Server
+
+Links:
+- Website (german): [link] (https://do-m-inik.at/)
+- Twitter (german: [link] (https://twitter.com/do-m-inik/)
+- University website: [link] (https://uibk.ac.at)
