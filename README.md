@@ -19,5 +19,5 @@ Also experienced in:
 
 Links:
 - Website (german): https://do-m-inik.at/
-- Twitter (german: https://twitter.com/do-m-inik/
+- Twitter (german): https://twitter.com/do-m-inik/
 - University website: https://uibk.ac.at
