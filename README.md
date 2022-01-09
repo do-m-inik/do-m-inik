@@ -18,7 +18,7 @@ Also experienced in:
 - Ubuntu Desktop/Server
 
 Links:
-- Website (german): https://do-m-inik.at/
+- Website (german): https://domiweb.at
 - Twitter (german): https://twitter.com/do-m-inik/
 - University website: https://uibk.ac.at/
 - Österreichische Post (german): https://post.at/ 
