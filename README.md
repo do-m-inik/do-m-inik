@@ -16,6 +16,7 @@ Programming Languages did at the University:
 Also experienced in:
 - Debian Desktop/Server
 - Ubuntu Desktop/Server
+- HTML5 / CSS3
 
 Links:
 - Website (german): https://domiweb.at/
