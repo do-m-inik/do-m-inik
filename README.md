@@ -21,5 +21,5 @@ Also experienced in:
 
 Links:
 - Website (german): https://domiweb.at/
-- Mastodon (german): https://bahn.social/@dominik
+- Mastodon (german): https://bahn.social/@dominik/
 - University website: https://uibk.ac.at/
