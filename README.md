@@ -1,7 +1,7 @@
 # Dominik Schäfer
 
 Personal info:
-- 23 years old 👨
+- 24 years old 👨
 - Living in Hamburg and Erftstadt 🏠
 - Computer Science student at the University of Innsbruck 👨‍🎓
 
@@ -17,6 +17,7 @@ Also experienced in:
 - Ubuntu Desktop/Server
 - HTML5 / CSS3
 - Swift
+- PostgreSQL, MySQL
 
 Links:
 - Website (german): https://domi-schaefer.de/
