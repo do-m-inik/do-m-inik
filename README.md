@@ -1,7 +1,7 @@
 # Dominik Schäfer
 
 Personal info:
-- 24 years old 👨
+- 25 years old 👨
 - Living in Hamburg and Erftstadt 🏠
 - Computer Science student at the University of Innsbruck 👨‍🎓
 
